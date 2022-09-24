@@ -10,6 +10,8 @@
 
 1.  下载
 https://gitee.com/joyanhui/php-single-file-manager/repository/archive/master.zip
+或者
+https://github.com/joyanhui/php-single-file-manager/archive/refs/heads/master.zip
 2.  解压 把 文件上传到服务器，http://youwebsite.com
 3.  访问： http://youwebsite.com/_tinyfilemanager.php 即可开始使用
 
